@@ -1,4 +1,4 @@
-# PRODIGY_CS_01_Encrypting and Decrypting text script
+# PRODIGY_CS_01_Encrypting_&_Decrypting_text_script
 # Caesar Cipher GUI
 
 This is a simple GUI application that implements the **Caesar Cipher** algorithm for encrypting and decrypting text. The application allows users to input a message and a shift value, then perform encryption or decryption. It also includes convenient "Paste" and "Copy" buttons for easier text handling.
